@@ -4,6 +4,8 @@ Project from the Coursera course Google Data Analytics
 
 2 tasks - first pdf file, a journal about all the courses from Google Data Analytics and a second file from case study created with R.
 
+![Projeto no kagle](https://github.com/gisetech/case-study-wellness-smart/blob/main/kagle_R_fitbit-bellabeat.png)
+
 
 # FitBit Data Analysis for Bellabeat 
 
