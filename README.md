@@ -2,7 +2,7 @@
 
 Project from the Coursera course Google Data Analytics
 
-2 tasks - first pdf file about a journal about all the courses from Google Data Analytics and a second file from case study created with R.
+2 tasks - first pdf file, a journal about all the courses from Google Data Analytics and a second file from case study created with R.
 
 
 # FitBit Data Analysis for Bellabeat 
